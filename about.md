@@ -19,7 +19,7 @@ requirements to make a great product.
 
 I currently live and work in Kansas City at a cool company called
 [Informa](https://informa.com), a leading provider of industry intelligence for
-agribusiness, finance, infrastructure development, pharmaceuticals, and
+agribusiness, finance, pharmaceuticals, and
 logistics. My team and I develop several business intelligence products,
 including [SourceESB](https://sourceesb.com),
 [Equipmentwatch](https://equipmentwatch.com), and
